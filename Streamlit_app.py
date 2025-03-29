@@ -1,6 +1,6 @@
 # Streamlit_app.py
 
-## UPSC_PCS_Question_Generator
+## UPSC_MPCS_Question_Generator
 
 
 ##Create enviornment.
